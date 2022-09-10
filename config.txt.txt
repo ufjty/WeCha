@@ -1,0 +1,27 @@
+##############################
+##
+##       作者：张澳旗
+##     微信：17600005204
+##   有偿代做、每天自动推送
+##
+##############################
+
+{
+"app_id": "wx767e9cb77675125e",
+"app_secret": "0953d97acd1676195888ee2985407cab",
+
+"template_id": "	fJfKDyepcBsmtEx0xV7JqbA4y9oOiNJndZ0ipSW4Yhw",
+"user_id": ["wxid_yhgaqye1un0022"],
+#"user_id": ["DY0607089"],
+
+"C_ShengFen": "甘肃",
+"C_ChengShi": "张掖",
+"S_XingZuo": "摩羯座",
+
+"S_Love": "2022-02-20",
+"birthday1": "2005-01-17",
+
+"C_String01": "你是藏在云层里的月亮，也是我穷尽一生寻找的宝藏。 ",
+
+# 天气预报
+"API_TQYB":"e7a11828f405f22dfe2624a8c23652cc",
